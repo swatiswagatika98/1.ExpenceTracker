@@ -1,0 +1,13 @@
+form{
+    background-color: aquamarine;
+}
+form.input{background-color: pink;}
+
+button{
+    background-color: antiquewhite;
+    color: brown;
+    font-weight: bold;
+}
+body{
+    background-color: yellow;
+}
